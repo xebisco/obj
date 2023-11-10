@@ -1,6 +1,7 @@
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: roboto-regular; 
+	src: url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
     margin: 0;
     padding: 0;
 }
